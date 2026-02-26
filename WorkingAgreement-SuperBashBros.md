@@ -50,7 +50,7 @@
 <ol>
    <li> Process</li>
    <pr> We will set up a GitHub KanBan board that will contain tasks that are created by team members, as mentioned earlier in development, using tickets.<br>
-   One person will be chosen to be a representative for the stakeholder to communicate any issues or problems to create tickets, and ask for clarifying. </pr>
+   One person will be chosen to be a representative for the stakeholder to communicate any issues or problems to create tickets, and ask for clarification on any topic. </pr>
 </ol>
 <h2>Agreemment Review</h2>
 <pr>Agreement will be reviewed before each major project to ensure the relevance of the agreement.<br></pr>
