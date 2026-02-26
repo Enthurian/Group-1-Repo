@@ -1,5 +1,6 @@
 Team Experience:
   Cason: In CS2400 Assembly Language Programming and HPC I was in a team where we created a large scale sorting algorithm using multiple cores to increase performance. this team communicated deadlines and individual tasks very well.
+  Corbin: The last time I had a great team was during a semester project. I had multiple members that went out of the way to communicate outside of school to focus on the project at hand. I think the group had excellent commitment and trust which created fantastic results.
 
 Health Signals:
   Being able to see everyone is:
