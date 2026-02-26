@@ -53,5 +53,5 @@
    One person will be chosen to be a representative for the stakeholder to communicate any issues or problems to create tickets, and ask for clarifying. </pr>
 </ol>
 <h2>Agreemment Review</h2>
-<pr>Agreement will be reviewed before each major project to ensure relevance of the agreement.</pr>
-
+<pr>Agreement will be reviewed before each major project to ensure the relevance of the agreement.</pr>
+Alexander Kindall
