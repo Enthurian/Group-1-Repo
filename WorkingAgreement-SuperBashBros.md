@@ -1,12 +1,14 @@
 <h2>Culture</h2>
-1. Trust
+<ol>
+<li>Trust</li>
    <pr>No fear of judgment from other team members when your opinion is voiced.<br>
    Have trust in each person's capabilities and commitment.</pr>
-2. Conflict
+<li>Conflict</li>
    Open Discussion among the group.
    All conflicts should be resolved with the entire group.
    Each team member will have an equal say in final decisions.
-4. Accountability 
+<li>Commitement</li>
+<li>Accountability</li> 
    Have Stand-up Meetings
       -Meeting where each person can share their progress, feelings, and any challenges they are facing, where each person must share.
    Check-ins consistently in a direct and effective way
