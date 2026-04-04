@@ -22,7 +22,7 @@ public class BlackJackTest {
     Deck deck = new Deck();
     List<String> seen = new ArrayList<>();
     for (int i = 0; i < 52; i++) {
-      String card = deck.draw().DisplayCard();
+      String card = deck.draw().displayCard();
       assertFalse(seen.contains(card));
       seen.add(card);
     }
@@ -34,13 +34,13 @@ public class BlackJackTest {
     Deck deck = new Deck();
     List<String> before = new ArrayList<>();
     for (int i = 0; i < 52; i++) {
-      before.add(deck.draw().DisplayCard());
+      before.add(deck.draw().displayCard());
     }
     deck.reset();
     deck.shuffle();
     List<String> after = new ArrayList<>();
     for (int i = 0; i < 52; i++) {
-      after.add(deck.draw().DisplayCard());
+      after.add(deck.draw().displayCard());
     }
     assertFalse(before.equals(after));
   }
@@ -59,7 +59,7 @@ public class BlackJackTest {
   @Test
   public void testDisplayCard() {
     Card card = new Card("A", "Hearts");
-    assertEquals("A of Hearts", card.DisplayCard());
+    assertEquals("A of Hearts", card.displayCard());
   }
 
   // 3a
