@@ -3,7 +3,7 @@ import javax.swing.*;
 /**
  * Main class with main method invoked on app start.
  * @version 1.0.0
- * @author Dr. Jody Paul
+ * @author Super Bash Bros
  */
 public class Main{
     /** Private constructor to prevent instantiation of entry point class. */
