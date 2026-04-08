@@ -17,6 +17,9 @@ public class Main{
         Deck deck = new Deck();
         JFrame frame = new JFrame("BlackJack Teacher");
         JLabel label = new JLabel("Shuffle deck or draw cards to learn blackjack", SwingConstants.CENTER);
+        
+
+
         JButton shuffleB = new JButton("Shuffle");
         shuffleB.setBounds(SwingConstants.LEFT, 350, 220, 50);
         frame.add(shuffleB);
@@ -27,6 +30,11 @@ public class Main{
         frame.add(drawB);
         drawB.addActionListener(e -> deck.draw());
 
+        JButton resetB = new JButton("Reset");
+        resetB.setBounds(SwingConstants.RIGHT+165,400, 110, 25);
+        frame.add(resetB);
+        resetB.addActionListener(e -> deck.reset());
+        
         frame.add(label);
         frame.setSize(500, 700);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);

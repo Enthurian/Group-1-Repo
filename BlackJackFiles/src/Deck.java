@@ -2,6 +2,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
+
 /**
  * Represents a deck of 52 playing cards.
  * @author Super Bash Bros
@@ -41,6 +42,7 @@ public class Deck {
     	}
     }
 	public void reset() {
+        System.out.println("Deck reset");
         deck.clear();
 
         String[] suits = {"Hearts", "Clubs", "Diamonds", "Spades"};
